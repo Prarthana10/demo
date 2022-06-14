@@ -1,2 +1,2 @@
 ## Demo git repo
-Trial
+Trial for git commit
